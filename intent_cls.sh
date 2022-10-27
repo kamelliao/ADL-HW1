@@ -1,0 +1,1 @@
+python3 ./src/test_intent.py --model CNN --model_file ./intent.model.pt --test_file "${1}" --pred_file "${2}"

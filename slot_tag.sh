@@ -1,0 +1,1 @@
+python3 ./src/test_slot.py --model CNN-biLSTM --model_file ./slot.model.pt --test_file "${1}" --pred_file "${2}"
